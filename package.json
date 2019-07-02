@@ -1,0 +1,16 @@
+{
+  "name": "userapp",
+  "version": "1.0.0",
+  "description": "App for user registeration and login",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Aditi Boobna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.2",
+    "nodemon": "^1.19.1"
+  }
+}
